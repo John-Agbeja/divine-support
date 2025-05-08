@@ -9,7 +9,7 @@
       font-family: 'Segoe UI', sans-serif;
       background: #f9f9f9;
       color: #333;
-      max-width: 800px;
+      max-width: 900px;
       margin: auto;
       padding: 20px;
       line-height: 1.7;
@@ -41,6 +41,16 @@
       font-size: 0.9em;
       color: #555;
     }
+    .image-section {
+      margin-top: 30px;
+    }
+    .image-section img {
+      width: 100%;
+      max-width: 100%;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    }
   </style>
 </head>
 <body>
@@ -70,6 +80,12 @@
   <p><a href="https://wa.me/2349032201075">WhatsApp Me</a> or call <strong>09032201075</strong></p>
 
   <a class="donate-btn" href="https://wa.me/2349032201075" target="_blank">Donate Now via WhatsApp</a>
+
+  <div class="image-section">
+    <h2>Progress So Far</h2>
+    <img src="divine-update1.jpg" alt="Divine Oyekanmi Fundraising Progress 1">
+    <img src="divine-update2.jpg" alt="Divine Oyekanmi Fundraising Progress 2">
+  </div>
 
   <p><em>Please don’t scroll past. You might be the answer to this little girl’s prayer.</em></p>
 
